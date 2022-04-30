@@ -1,0 +1,10 @@
+# Any virtual environments
+venv*
+
+# Any powershell scripts
+**.ps1
+
+# Any ide nonsense
+.vscode*
+
+**__pycache__**

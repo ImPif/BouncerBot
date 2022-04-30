@@ -1,0 +1,11 @@
+import os
+
+# Gets the bots token
+token = os.environ['BOT_TOKEN']
+
+Me = 205498906648379392
+Mechro = 326213046840328194
+Gucci = 297937556295909376
+Bubbles = 192507740256468992
+Mason = 119151219682967556
+Maurice = 287395840249823235
